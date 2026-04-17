@@ -44,6 +44,7 @@ public class TC_MyAccountPageTest extends BaseClass{
 			Thread.sleep(5000);
 			logger.info("Detail enterd succefully");
 			System.out.println("Executed 1");
+			
 	 }
 	
 	@Test

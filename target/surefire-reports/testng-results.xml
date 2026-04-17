@@ -2,16 +2,16 @@
 <testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-27T23:27:13 IST" name="SuiteFirst" finished-at="2025-01-27T23:27:41 IST" duration-ms="27312">
+  <suite started-at="2026-04-17T19:50:49 IST" name="SuiteFirst" finished-at="2026-04-17T19:51:18 IST" duration-ms="29187">
     <groups>
     </groups>
-    <test started-at="2025-01-27T23:27:13 IST" name="Test1" finished-at="2025-01-27T23:27:41 IST" duration-ms="27312">
+    <test started-at="2026-04-17T19:50:49 IST" name="Test1" finished-at="2026-04-17T19:51:18 IST" duration-ms="29187">
       <class name="com.mystore.testcases.TC_MyAccountPageTestDataDrivan">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDrivan@5032714f]" started-at="2025-01-27T23:27:14 IST" name="setup" finished-at="2025-01-27T23:27:31 IST" duration-ms="17190" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDrivan@1a482e36]" started-at="2026-04-17T19:50:49 IST" name="setup" finished-at="2026-04-17T19:51:03 IST" duration-ms="13500" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDrivan@5032714f]" started-at="2025-01-27T23:27:33 IST" name="verifyLogin" data-provider="LoginDataProvider" finished-at="2025-01-27T23:27:37 IST" duration-ms="3176" status="PASS">
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDrivan@1a482e36]" started-at="2026-04-17T19:51:07 IST" name="verifyLogin" data-provider="LoginDataProvider" finished-at="2026-04-17T19:51:13 IST" duration-ms="6083" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -32,7 +32,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDrivan@5032714f]" started-at="2025-01-27T23:27:37 IST" name="verifyLogin" data-provider="LoginDataProvider" finished-at="2025-01-27T23:27:40 IST" duration-ms="3669" status="PASS">
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDrivan@1a482e36]" started-at="2026-04-17T19:51:13 IST" name="verifyLogin" data-provider="LoginDataProvider" finished-at="2026-04-17T19:51:17 IST" duration-ms="3830" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -53,7 +53,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDrivan@5032714f]" started-at="2025-01-27T23:27:40 IST" name="tearDown" finished-at="2025-01-27T23:27:41 IST" duration-ms="378" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTestDataDrivan@1a482e36]" started-at="2026-04-17T19:51:17 IST" name="tearDown" finished-at="2026-04-17T19:51:18 IST" duration-ms="811" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
